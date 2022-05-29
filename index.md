@@ -1,25 +1,14 @@
 ## Matt Majestic Github Page
+Check out my portfolio at [mattmajestic.com](https://mattmajestic.com)
 
-You can use the [editor on GitHub](https://github.com/mattmajestic/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| Project | Description | Status |
+|---|---|---|
+| [real-world-api](https://github.com/mattmajestic/real-world-api) | 💡 R Based Apis on Heroku | production |
+| [shinyPoker](https://github.com/mattmajesticshinyPoker) | ⏬ Create a Poker Sim via an R Shiny App | beta |
+| [web3R](https://github.com/mattmajestic/web3R) | ✅ Reticulate Python Web3 Code to R | production Python | 👋
 
 ```markdown
-Syntax highlighted code block
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+git clone https://github.com/mmajestic/cv
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
