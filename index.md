@@ -1,4 +1,4 @@
-## Matt Majestic Github Page
+## Matt Majestic's Github Page
 Check out my portfolio at [mattmajestic.com](www.mattmajestic.com)
 
 ### Projects
