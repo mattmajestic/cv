@@ -1,5 +1,5 @@
 ## Matt Majestic Github Page
-Check out my portfolio at [mattmajestic.com](https://mattmajestic.com)
+Check out my portfolio at [mattmajestic.com](www.mattmajestic.com)
 
 ### Projects
 
@@ -9,6 +9,7 @@ Check out my portfolio at [mattmajestic.com](https://mattmajestic.com)
 | [shinyPoker](https://github.com/mattmajesticshinyPoker) | ⏬ Create a Poker Sim via an R Shiny App | beta |
 | [web3R](https://github.com/mattmajestic/web3R) | ✅ Reticulate Python Web3 Code to R | production Python | 👋
 
+### Clone this Template
 ```markdown
 git clone https://github.com/mmajestic/cv
 ```
